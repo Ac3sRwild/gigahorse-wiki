@@ -1,1 +1,3 @@
-# gigahorse-wiki
+# Gigahorse-Wiki
+
+[Remote Compute](./REMOTE_COMPUTE.md)
